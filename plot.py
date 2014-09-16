@@ -6,14 +6,14 @@ import numpy as np
 from multiprocessing import Pool
 from scipy.optimize import leastsq
 from numpy.lib import recfunctions
-from useful import extinction_coeff
-import esutil
+#from useful import extinction_coeff
+#import esutil
 from matplotlib import rc
 from matplotlib.backends.backend_pdf import FigureCanvasPdf
 #matplotlib.backend_bases.register_backend('pdf', FigureCanvasPdf)
 import pickle, os
-from dust import getval
-from esutil.coords import eq2gal
+#from dust import getval
+#from esutil.coords import eq2gal
 from matplotlib import pyplot as plt
 import os.path
 import math
