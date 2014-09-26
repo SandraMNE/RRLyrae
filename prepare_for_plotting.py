@@ -238,4 +238,4 @@ if __name__ == "__main__":
 
   else:
 
-    print "Incorrect number of arguments! Correct usage:\n print "python prepare_for_plotting.py -s <pkl file suffix> -r <rrlyr full path> -n <non-rrlyr full path> -t <tables (true params) full >"
+    print "Incorrect number of arguments! Correct usage:\n print 'python prepare_for_plotting.py -s <pkl file suffix> -r <rrlyr full path> -n <non-rrlyr full path> -t <tables (true params) full >'"
